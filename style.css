@@ -1,0 +1,53 @@
+* {
+    padding: 2px;
+    font-family: Arial, sans-serif;
+   
+    
+}
+
+body {
+    background-color:Light gray hsl(212, 45%, 89%); 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    
+}
+/*
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: Light gray hsl(212, 45%, 89%);
+    
+    
+} */
+
+.card {
+    background-color: Light gray hsl(212, 45%, 89%);
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    width: 300px;
+    text-align: center;
+    padding: 20px;
+}
+
+
+.img {
+    width: 288px;
+    height: 288px;
+    border-radius:10px ;
+}
+
+h2 {
+    font-size: 15px;
+    margin: 20px 0;
+    color: #333;
+}
+
+p {
+    font-size: 14px;
+    color: #777;
+}
+
